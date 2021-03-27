@@ -1,0 +1,9 @@
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.deps.json
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfo.cs
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+D:\Projetos\VisualStudio\ControleFinanceiro.API\ControleFinanceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csprojAssemblyReference.cache
